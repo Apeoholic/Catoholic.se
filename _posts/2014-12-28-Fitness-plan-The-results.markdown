@@ -2,9 +2,9 @@
 layout: post
 title: Fitness plan - The results
 date: 2014-12-28 17:03:00
-categories: [Fitness-plan]
+categories: 
 author: Jessica Engström
-tags: [Fitness-plan]
+tags: 
 hide: false
 ---
 <p>Okay, so my plan to update often failed miserably for so many reasons.<br />But here is the result and recap of my fitness plan.</p>

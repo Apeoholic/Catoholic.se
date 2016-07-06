@@ -2,9 +2,9 @@
 layout: post
 title: Building a fitness plan with Get up and code podcast
 date: 2014-01-22 11:28:00
-categories: [Fitness-plan]
+categories: 
 author: Jessica Engström
-tags: [Fitness-plan]
+tags: 
 hide: false
 ---
 <h2>Background</h2>

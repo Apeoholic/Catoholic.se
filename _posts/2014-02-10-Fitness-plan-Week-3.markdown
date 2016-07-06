@@ -2,9 +2,9 @@
 layout: post
 title: Fitness plan Week 3
 date: 2014-02-10 16:21:00
-categories: [Fitness-plan]
+categories: 
 author: Jessica Engström
-tags: [Fitness-plan]
+tags: 
 hide: false
 ---
 <p>Monday the 20th of January I started the <a href="http://www.catoholic.se/page/Workout-plan.aspx" target="_blank">workout plan</a>, and the <a href="http://www.catoholic.se/page/Diet-plan.aspx" target="_blank">diet plan</a> on Wednesday .</p>
