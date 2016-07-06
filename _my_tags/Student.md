@@ -1,0 +1,4 @@
+---
+name: Student
+slug: Student
+---
