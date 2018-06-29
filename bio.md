@@ -1,12 +1,9 @@
 ---
-layout: post
+layout: page
 title: Bio
-date: 2018-01-14 16:06:00
-categories: [UX-UI,Windows]
-author: Jessica Engström
-tags: [Conference]
-hide: true
+permalink: /bio/
 ---
+
 <p>
 <a href="/PostImages/JessicaEngstromProfilSquare"><img title="Jessica Engstrom" style="border-top: 0px; border-right: 0px; background-image: none; border-bottom: 0px; padding-top: 0px; padding-left: 0px; border-left: 0px; display: inline; padding-right: 0px" border="0" alt="Jessica Engstrom" src="/PostImages/JessicaEngstromProfilSquare" width="240" height="240"></a>
 Being a geek shows in all parts of her life, whether it be organizing hackathons, running a user group and a podcast with her husband, game nights (retro or VR/MR) with friends, just catching the latest superhero movie or speaking internationally at conferences. </p>
@@ -16,4 +13,3 @@ Twitter: @EngstromJess<br>
 Instagram: @EngstromJess<br>
 LinkedIn: www.linkedin.com/in/jessicaengstrom/<br>
 Facebook:www.facebook.com/EngstromJessica</p>
-
